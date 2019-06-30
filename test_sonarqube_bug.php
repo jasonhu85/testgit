@@ -1,6 +1,6 @@
 <?php
 //"require_once" and "include_once" should be used instead of "require" and "include"
-require "lib.php"
+require "lib.php";
 
 //=+ should not be used instead of +=
 $target = -5;
