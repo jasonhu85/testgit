@@ -1,4 +1,4 @@
-test<?php
+<?php
 //"require_once" and "include_once" should be used instead of "require" and "include"
 require "lib.php"
 
